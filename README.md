@@ -18,11 +18,12 @@
 |스킬|설명|파일|
 |--|--|--|
 |Selenium|||
-|API|공공데이터포털에서 API를 이용한 데이터 수집 및 데이터프레임 변환|[sample_API.py](https://github.com/SeokcheonMoon/skills_data/blob/main/crawling/API/sample_API.py)|
+|API|공공데이터포털에서 API를 이용한 데이터 수집 및 데이터프레임 변환|[collection_API.py](https://github.com/SeokcheonMoon/skills_data/blob/main/crawling/API/collection_API.py)|
 
 ## 데이터베이스
 
-|스킬|설명|
-|--|--|
-|MySQL||
-|mongoDB||
+|스킬|설명|파일|
+|--|--|--|
+|MySQL|||
+|mongoDB|mongoDB에 데이터 삽입|[insertion_mongoDB.py](https://github.com/SeokcheonMoon/skills_data/blob/main/crawling/API/insertion_mongoDB.py)|
+||mongoDB 내 데이터 추출|[extraction_mongoDB.py](https://github.com/SeokcheonMoon/skills_data/blob/main/crawling/API/extraction_mongoDB.py)|
