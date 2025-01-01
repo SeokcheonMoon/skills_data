@@ -25,5 +25,5 @@
 |스킬|설명|파일|
 |--|--|--|
 |MySQL|||
-|mongoDB|mongoDB에 데이터 삽입|[insertion_mongoDB.py](https://github.com/SeokcheonMoon/skills_data/blob/main/crawling/API/insertion_mongoDB.py)|
-||mongoDB 내 데이터 추출|[extraction_mongoDB.py](https://github.com/SeokcheonMoon/skills_data/blob/main/crawling/API/extraction_mongoDB.py)|
+|mongoDB|mongoDB에 데이터 삽입|[insertion_mongoDB.py](https://github.com/SeokcheonMoon/skills_data/blob/main/database/mongoDB/insertion_mongoDB.py.py)|
+||mongoDB 내 데이터 추출|[extraction_mongoDB.py](https://github.com/SeokcheonMoon/skills_data/blob/main/database/mongoDB/extraction_mongoDB.py.py)|
