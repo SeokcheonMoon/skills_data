@@ -32,5 +32,5 @@
 
 |스킬|설명|파일|
 |--|--|--|
-|XGBoost|수치형 예측(XGBRegressor)|[XGBRegressor.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main\ML\XGBoost\XGBRegressor.ipynb)|
-||범주형 예측(XGBClassifier)|[XGBClassifier.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main\ML\XGBoost\XGBClassifier.ipynb)|
+|XGBoost|수치형 예측(XGBRegressor)|[XGBRegressor.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/ML/XGBoost/XGBRegressor.ipynb)|
+||범주형 예측(XGBClassifier)|[XGBClassifier.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/ML/XGBoost/XGBClassifier.ipynb)|
