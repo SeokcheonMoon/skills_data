@@ -7,8 +7,8 @@
 
 ## 데이터 분석
 
-|스킬|설명|
-|--|--|
+|스킬|설명|파일|
+|--|--|--|
 |pre-processing|||
 |visualization|iris(붓꽃)데이터를 이용한 8가지 데이터시각화|[visualizations.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/analysis/visualization/visualizations.ipynb)|
 |statistic|||
