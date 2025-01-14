@@ -11,7 +11,9 @@
 |--|--|--|
 |pre-processing|||
 |visualization|iris(붓꽃)데이터를 이용한 8가지 데이터시각화|[visualizations.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/analysis/visualization/visualizations.ipynb)|
-|statistic|||
+|statistic|상관관계 검증 방법|[상관관계 분석법.png](https://github.com/SeokcheonMoon/skills_data/blob/main/images/상관관계_분석.png)|
+
+
 
 ## 데이터 크롤링
 
