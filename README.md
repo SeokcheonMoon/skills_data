@@ -14,7 +14,6 @@
 |statistic|상관관계 검증 방법|[상관관계 분석법.png](https://github.com/SeokcheonMoon/skills_data/blob/main/images/상관관계_분석.png)|
 
 
-
 ## 데이터 크롤링
 
 |스킬|설명|파일|
@@ -36,3 +35,9 @@
 |--|--|--|
 |XGBoost|수치형 예측(XGBRegressor)|[XGBRegressor.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/ML/XGBoost/XGBRegressor.ipynb)|
 ||범주형 예측(XGBClassifier)|[XGBClassifier.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/ML/XGBoost/XGBClassifier.ipynb)|
+
+## 자연어 처리
+
+|스킬|설명|파일|
+|--|--|--|
+|LLM|pipline을 사용||
