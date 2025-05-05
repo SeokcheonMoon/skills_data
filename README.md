@@ -36,8 +36,8 @@
 |XGBoost|수치형 예측(XGBRegressor)|[XGBRegressor.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/ML/XGBoost/XGBRegressor.ipynb)|
 ||범주형 예측(XGBClassifier)|[XGBClassifier.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/ML/XGBoost/XGBClassifier.ipynb)|
 
-## 자연어 처리
+## LLM
 
 |스킬|설명|파일|
 |--|--|--|
-|LLM|pipline을 사용||
+|LLM|OpenAI API 호출 이후 프롬프트 응답|[LLM_OpenAI.ipynb](https://github.com/SeokcheonMoon/skills_data/blob/main/LLM/LLM_OpenAI.ipynb)|
